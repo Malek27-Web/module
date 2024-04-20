@@ -1,12 +1,14 @@
+
 -------------------------------------------------------Technologies utilisé-------------------------------------------------
 html,css,javascript,php,bootstrap,mysql
 -----------------------------------------------------------Implémentation----------------------------------------------------
+Pour télécharger le dossier il faut cliquer sur le boutton code en vert apres tout en bas vous pouvez voir "Download ZIP"
+dézipper le fichier et ajouter bootstrap dans votre répertoire de travail
+
 Tout d'abord il faut installer xampp et demarrer APACHE et mysql ,créer une nouvelle base nommé 'montre' ensuite 
 copier les requettes la base de donnée Montre.sql et vous allez dans la section SQL dans phpMyAdmin pour la coller.
 
 Il faut mettre le dossier dans le répertoire htdocs sous xampp dans votre disque local c:
-
-Il faut installer bootstrap et le mettre dans le dossier
 
 Apres vous pouvez visualiser le travail en tapant http://localhost/Montre/TousLesModules.php
 
