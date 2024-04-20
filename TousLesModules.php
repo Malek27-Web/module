@@ -7,8 +7,7 @@
 								initial-scale=1.0"> 
 	<title>Tableau de bord des modules</title> 
 	<script src="/script.js" defer></script> 
-	<link rel="stylesheet" href= 
-"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
 
 <link rel="stylesheet" href="module.css">
 
@@ -116,7 +115,7 @@ $stmt = $conn->prepare($query);
 $stmt->execute();
 $nombrecamera = $stmt->fetchColumn(); 
 ?>
-<body> 
+<body > 
 
 	<div class="wrapper"> 
 		<i id="left" class="fa-solid fas fa-angle-left"></i> 
